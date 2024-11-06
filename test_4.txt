@@ -3,3 +3,17 @@ goood morning Tarek
 good morning Badr
 
 good morning tarek & badr
+
+git reset --soft HEAD~1
+
+
+git reset --soft HEAD~1
+
+
+git reset --soft HEAD~1
+
+
+git reset --soft HEAD~1
+
+git reset --soft HEAD~1
+
